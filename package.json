@@ -1,0 +1,22 @@
+{
+  "name": "jouncein",
+  "version": "1.0.0",
+  "description": "App for Kids",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nycjennie/jounce.git"
+  },
+  "author": "Jennie Preval, Aaron Mendez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nycjennie/jounce/issues"
+  },
+  "homepage": "https://github.com/nycjennie/jounce#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
